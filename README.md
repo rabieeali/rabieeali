@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">a Full-Stack Developer</h3>
 
-
-<!-- [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://your-link-url.com) -->
 <p align="center">
   <a href="https://your-link-url.com">
     <img
@@ -33,6 +31,8 @@ width="300"
 
 
 ### Languages and Tools:
+<div align="center"">
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">](https://www.typescriptlang.org/)
 [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40">](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">](https://reactjs.org/)
@@ -50,5 +50,6 @@ width="300"
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">](https://postman.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40">](https://sass-lang.com)
 
+  </div>
 
 
