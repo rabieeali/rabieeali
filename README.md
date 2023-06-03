@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 <h3 align="center">a Full-Stack Developer</h3>
 
 
+<!-- [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://your-link-url.com) -->
+<p align="center">
+  <a href="https://your-link-url.com">
+    <img
+      src="https://media.tenor.com/3bTxZ4HdrysAAAAS/pixels-neon.gif"
+alt="img"
+width="300"
+         >
+  </a>
+</p>
+
+
+
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">](https://www.typescriptlang.org/)
 [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40">](https://nextjs.org/)
